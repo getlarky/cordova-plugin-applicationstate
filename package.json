@@ -1,0 +1,31 @@
+{
+  "name": "larky-appstate",
+  "version": "0.0.2",
+  "description": "Larky Application State",
+  "cordova": {
+    "id": "larky-appstate",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getlarky/cordova-plugin-applicationstate"
+  },
+  "keywords": [
+    "application-state",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "phonegap"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Johannes larky"
+}
